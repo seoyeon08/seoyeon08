@@ -1,4 +1,5 @@
 <div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Moon's%20Git&fontSize=70" />
   <h2>Seo Yeon, Moon 🌙🐤</h2>
   <p>Hi there!</p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyeon08&count_bg=%23DBD0F1&title_bg=%238E8E8E&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
@@ -37,5 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Moon's%20Git&fontSize=70" />
 -->
